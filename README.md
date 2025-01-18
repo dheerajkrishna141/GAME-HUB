@@ -1,5 +1,5 @@
 ## GameHub 
-GameHub is a user-friendly UI designed to explore thousands of games all in one place. Our platform allows you to search, sort, and filter games easily, making it effortless to find your next favorite game.
+GameHub is a user-friendly UI designed to explore thousands of games all in one place. This platform allows you to search, sort, and filter games easily, making it effortless to find your next favorite game.
 
 
 ## Getting Started
